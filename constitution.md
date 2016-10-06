@@ -40,7 +40,7 @@ TDWG shall meet each calendar year to discuss standards; advance and promote bio
 
 ## Article 5. Executive Committee
 
-TDWG is governed by an Executive Committee consisting of ten officers elected from and by the membership (the Chair, Deputy Chair, Secretary, Treasurer, and six Representatives), and the chairs of the TDWG Functional Subcommittees, who serve ex officio, as defined in Articles 6 and 7.
+TDWG is governed by an Executive Committee consisting of ten officers elected from and by the membership (the Chair, Deputy Chair, Secretary, Treasurer, and six Representatives), and the chairs of the TDWG Functional Subcommittees, who serve *ex officio*, as defined in Articles 6 and 7.
 
 The Executive Committee:
 
@@ -91,7 +91,7 @@ The Treasurer is entitled to sign jointly with one other officer on behalf of TD
 
 ### 6.5 Chairs of functional subcommittees
 
-Chairs of Functional Subcommittees (see Article 7) participate, ex officio, as full members of the Executive Committee. They liaise between their subcommittees and the TDWG Executive Committee, summarise activities, and discuss strategic priorities and future plans in regards to subcommittee responsibilities.  
+Chairs of Functional Subcommittees (see Article 7) participate, *ex officio*, as full members of the Executive Committee. They liaise between their subcommittees and the TDWG Executive Committee, summarise activities, and discuss strategic priorities and future plans in regards to subcommittee responsibilities.  
 
 ### 6.6 Elected Representatives
 
