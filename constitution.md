@@ -10,10 +10,10 @@ The International Working Group on Taxonomic Databases (herein called "TDWG") is
 
 To achieve its goals, TDWG
 
-a. develops, adopts and promotes standards and guidelines for the recording and exchange of data about organisms;  
-b. promotes their use through the most appropriate and effective means;  
-c. acts as a forum for discussion through holding meetings and through publication and  
-d. undertakes any other activities that are judged useful to the organisation.  
+  a. develops, adopts and promotes standards and guidelines for the recording and exchange of data about organisms;  
+  b. promotes their use through the most appropriate and effective means;  
+  c. acts as a forum for discussion through holding meetings and through publication and  
+  d. undertakes any other activities that are judged useful to the organisation.  
 
 ## Article 2. Affiliation and incorporation
 
@@ -27,8 +27,8 @@ Membership is open to individuals and other legal entities, including institutio
 
 Membership consists of two classes:
 
-a. individual members and  
-b. institutional members (other legal entities).  
+  a. individual members and  
+  b. institutional members (other legal entities).  
 
 Membership is acquired by written notification to the Chair, Secretary, or Treasurer and payment of the current year's membership fee. The Executive Committee may waive the membership fee of a member.
 
@@ -46,16 +46,16 @@ TDWG is governed by an Executive Committee consisting of the officers elected by
 
 The Executive Committee:
 
-a. provides leadership to TDWG;  
-b. promotes TDWG to the broader community;  
-c. organizes the day to day affairs of TDWG;  
-d. may appoint an individual or group of individuals to perform specific work or an ongoing function for TDWG;  
-e. proposes the amount of dues (subject to ratification at the annual meeting);  
-f. administers the assets;  
-g. has power to apply for legal status for TDWG;  
-h. has other powers as stated elsewhere in this Constitution and any by-laws;  
-i. provides timely notification of progress towards goals and  
-j. otherwise acts to fulfill the goals of TDWG.  
+  a. provides leadership to TDWG;  
+  b. promotes TDWG to the broader community;  
+  c. organizes the day to day affairs of TDWG;  
+  d. may appoint an individual or group of individuals to perform specific work or an ongoing function for TDWG;  
+  e. proposes the amount of dues (subject to ratification at the annual meeting);  
+  f. administers the assets;  
+  g. has power to apply for legal status for TDWG;  
+  h. has other powers as stated elsewhere in this Constitution and any by-laws;  
+  i. provides timely notification of progress towards goals and  
+  j. otherwise acts to fulfill the goals of TDWG.  
 
 The Executive Committee shall meet and report to the membership at least once each calendar year.
 
