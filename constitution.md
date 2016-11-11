@@ -44,30 +44,30 @@ TDWG shall meet each calendar year to discuss standards; advance and promote bio
 
 TDWG is governed by an Executive Committee consisting of ten officers elected from and by the membership (the Chair, Deputy Chair, Secretary, Treasurer, and six Representatives), and the chairs of the TDWG Functional Subcommittees, who serve *ex officio*, as defined in Articles 6 and 7.
 
-### 5.2 Roles and Responsibilities  
+### 5.2 Roles and responsibilities  
 
 The Executive Committee:  
 
-1. provides leadership to TDWG;  
-2. promotes TDWG to the broader community;  
-3. organizes the day to day affairs of TDWG;  
-4. may appoint an individual or group of individuals to perform specific work or an ongoing function for TDWG;  
-5. defines the number, scope and role of Functional Subcommittees;  
-6. proposes the amount of dues and a multiplier for votes cast by institutional members on election of officers (subject to ratification by the membership);  
-7. administers and retains fiduciary responsibility for the assets, and arranges audits;  
-8. prepares and presents the annual budget to the membership;  
-9. has power to apply for legal status for TDWG;  
-10. has other powers as stated elsewhere in this Constitution and any by-laws;  
-11. provides timely notification of progress towards goals; and  
-12. otherwise acts to fulfil the goals of TDWG.  
+1. provides leadership to TDWG;
+2. promotes TDWG to the broader community;
+3. organizes the day to day affairs of TDWG;
+4. may appoint an individual or group of individuals to perform specific work or an ongoing function for TDWG;
+5. defines the number, scope and role of Functional Subcommittees;
+6. proposes the amount of dues and a multiplier for votes cast by institutional members on election of officers (subject to ratification by the membership);
+7. administers and retains fiduciary responsibility for the assets, and arranges audits;
+8. prepares and presents the annual budget to the membership;
+9. has power to apply for legal status for TDWG;
+10. has other powers as stated elsewhere in this Constitution and any by-laws;
+11. provides timely notification of progress towards goals; and
+12. otherwise acts to fulfil the goals of TDWG.
 
-### 5.3 Executive Committee Meetings and Quorum  
+### 5.3 Executive Committee meetings and quorum    
 
 The Executive Committee shall meet and report to the membership at least once each calendar year.  
 
 A majority of Executive Committee members must participate in decision-making to constitute a quorum and conduct official business.  Decision-making mechanisms may include any means of communication accessible to all members, such as meetings in person, by teleconference, online chat, email, and document sharing, and voting by voice, paper, or electronic ballot.  
 
-### 5.4 Conflicts of Interest
+### 5.4 Conflicts of interest
 
 TDWG shall develop, adopt, and maintain a Conflict of Interest Policy.  The Executive Committee as a whole, and each member individually, must abide by that policy.  
 
