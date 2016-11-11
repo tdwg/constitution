@@ -42,7 +42,7 @@ TDWG shall meet each calendar year to discuss standards; advance and promote bio
 
 ### 5.1 Composition
 
-TDWG is governed by an Executive Committee consisting of ten officers elected from and by the membership (the Chair, Deputy Chair, Secretary, Treasurer, and six Representatives), and the chairs of the TDWG Functional Subcommittees, who serve *ex officio*, as defined in Articles 6 and 7.
+TDWG is governed by an Executive Committee consisting of ten officers elected from and by the membership (the Chair, Deputy Chair, Secretary, Treasurer, and six Representatives), and the chairs of the TDWG Functional Subcommittees, who serve *ex officio*, as defined in Articles 6 and 7.  At no time shall a majority of the Executive Committee, as a whole or in quorum, be composed of individuals who have familial or business relationships. 
 
 ### 5.2 Roles and responsibilities  
 
@@ -61,7 +61,7 @@ The Executive Committee:
 11. provides timely notification of progress towards goals; and
 12. otherwise acts to fulfil the goals of TDWG.
 
-### 5.3 Executive Committee meetings and quorum    
+### 5.3 Executive Committee meetings and quorum  
 
 The Executive Committee shall meet and report to the membership at least once each calendar year.  
 
