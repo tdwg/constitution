@@ -17,7 +17,7 @@ To achieve its goals, TDWG
 
 TDWG may affiliate to or cooperate with other associations or organisations with similar or complementary aims.
 
-TDWG may obtain legal status under the laws of the countries in which it decides to operate.
+TDWG is incorporated and operates in the State of California of the United States of America.  TDWG may obtain legal status under the laws of other countries in which it decides to operate.
 
 ## Article 3. Membership
 
@@ -40,9 +40,13 @@ TDWG shall meet each calendar year to discuss standards; advance and promote bio
 
 ## Article 5. Executive Committee
 
-TDWG is governed by an Executive Committee consisting of ten officers elected from and by the membership (the Chair, Deputy Chair, Secretary, Treasurer, and six Representatives), and the chairs of the TDWG Functional Subcommittees, who serve *ex officio*, as defined in Articles 6 and 7.
+### 5.1 Composition
 
-The Executive Committee:
+TDWG is governed by an Executive Committee consisting of ten officers elected from and by the membership (the Chair, Deputy Chair, Secretary, Treasurer, and six Representatives), and the chairs of the TDWG Functional Subcommittees, who serve *ex officio*, as defined in Articles 6 and 7.  At no time shall a majority of the Executive Committee, as a whole or in quorum, be composed of individuals who have familial or business relationships. 
+
+### 5.2 Roles and responsibilities  
+
+The Executive Committee:  
 
 1. provides leadership to TDWG;
 2. promotes TDWG to the broader community;
@@ -57,7 +61,15 @@ The Executive Committee:
 11. provides timely notification of progress towards goals; and
 12. otherwise acts to fulfil the goals of TDWG.
 
-The Executive Committee shall meet and report to the membership at least once each calendar year.
+### 5.3 Executive Committee meetings and quorum  
+
+The Executive Committee shall meet and report to the membership at least once each calendar year.  
+
+A majority of Executive Committee members constitutes a quorum and and must participate to conduct of official business.  Because TDWG is a global organization, participation is not required to be in real-time.  Pariticipation may include communication by any means accessible to all members, such as meeting in person, by teleconference, online chat, email, and document sharing. Voting may be by voice, gesture, paper, or electronic expression as directed by the Chair.  
+
+### 5.4 Conflicts of interest
+
+TDWG shall develop, adopt, and maintain a Conflict of Interest Policy.  The Executive Committee as a whole, and each member individually, must abide by that policy.  
 
 ## Article 6. Executive Committee Members
 
@@ -133,7 +145,7 @@ The Executive Committee may propose that by-laws be established, altered, or rep
 
 Dissolution of TDWG can only be enacted by a two-thirds majority of both individual and institutional members by vote. A proposal of dissolution must be dispatched by the Executive Committee to the membership at least ninety days before close of voting.
 
-Upon the dissolution of TDWG, any net remaining assets shall be transferred to the International Association for Plant Taxonomy or its successor.
+Upon the dissolution of TDWG, any net remaining assets shall be transferred to the International Association for Plant Taxonomy, provided that at the time of TWDG’s dissolution, that organization is a qualified 501(c)(3) organization. If this organization no longer exists or is not qualified, TWDG’s assets will be distributed to another qualified 501(c)(3) organization or internationally qualified charitable organization.  
 
 ## Article 11. Voting
 
