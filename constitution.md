@@ -17,7 +17,7 @@ To achieve its goals, TDWG
 
 TDWG may affiliate to or cooperate with other associations or organisations with similar or complementary aims.
 
-TDWG may obtain legal status under the laws of the countries in which it decides to operate.
+TDWG is incorporated and operates in the State of California of the United States of America.  TDWG may obtain legal status under the laws of other countries in which it decides to operate.
 
 ## Article 3. Membership
 
@@ -40,24 +40,36 @@ TDWG shall meet each calendar year to discuss standards; advance and promote bio
 
 ## Article 5. Executive Committee
 
+### 5.1 Composition
+
 TDWG is governed by an Executive Committee consisting of ten officers elected from and by the membership (the Chair, Deputy Chair, Secretary, Treasurer, and six Representatives), and the chairs of the TDWG Functional Subcommittees, who serve *ex officio*, as defined in Articles 6 and 7.
 
-The Executive Committee:
+### 5.2 Roles and Responsibilities  
 
-1. provides leadership to TDWG;
-2. promotes TDWG to the broader community;
-3. organizes the day to day affairs of TDWG;
-4. may appoint an individual or group of individuals to perform specific work or an ongoing function for TDWG;
-5. defines the number, scope and role of Functional Subcommittees;
-6. proposes the amount of dues and a multiplier for votes cast by institutional members on election of officers (subject to ratification by the membership);
-7. administers and retains fiduciary responsibility for the assets, and arranges audits;
-8. prepares and presents the annual budget to the membership;
-9. has power to apply for legal status for TDWG;
-10. has other powers as stated elsewhere in this Constitution and any by-laws;
-11. provides timely notification of progress towards goals; and
-12. otherwise acts to fulfil the goals of TDWG.
+The Executive Committee:  
 
-The Executive Committee shall meet and report to the membership at least once each calendar year.
+1. provides leadership to TDWG;  
+2. promotes TDWG to the broader community;  
+3. organizes the day to day affairs of TDWG;  
+4. may appoint an individual or group of individuals to perform specific work or an ongoing function for TDWG;  
+5. defines the number, scope and role of Functional Subcommittees;  
+6. proposes the amount of dues and a multiplier for votes cast by institutional members on election of officers (subject to ratification by the membership);  
+7. administers and retains fiduciary responsibility for the assets, and arranges audits;  
+8. prepares and presents the annual budget to the membership;  
+9. has power to apply for legal status for TDWG;  
+10. has other powers as stated elsewhere in this Constitution and any by-laws;  
+11. provides timely notification of progress towards goals; and  
+12. otherwise acts to fulfil the goals of TDWG.  
+
+### 5.3 Executive Committee Meetings and Quorum  
+
+The Executive Committee shall meet and report to the membership at least once each calendar year.  
+
+A majority of Executive Committee members must participate in decision-making to constitute a quorum and conduct official business.  Decision-making mechanisms may include any means of communication accessible to all members, such as meetings in person, by teleconference, online chat, email, and document sharing, and voting by voice, paper, or electronic ballot.  
+
+### 5.4 Conflicts of Interest
+
+TDWG shall develop, adopt, and maintain a Conflict of Interest Policy.  The Executive Committee as a whole, and each member individually, must abide by that policy.  
 
 ## Article 6. Executive Committee Members
 
@@ -133,7 +145,7 @@ The Executive Committee may propose that by-laws be established, altered, or rep
 
 Dissolution of TDWG can only be enacted by a two-thirds majority of both individual and institutional members by vote. A proposal of dissolution must be dispatched by the Executive Committee to the membership at least ninety days before close of voting.
 
-Upon the dissolution of TDWG, any net remaining assets shall be transferred to the International Association for Plant Taxonomy or its successor.
+Upon the dissolution of TDWG, any net remaining assets shall be transferred to the International Association for Plant Taxonomy, provided that at the time of TWDG’s dissolution, that organization is a qualified 501(c)(3) organization. If this organization no longer exists or is not qualified, TWDG’s assets will be distributed to another qualified 501(c)(3) organization or internationally qualified charitable organization.  
 
 ## Article 11. Voting
 
