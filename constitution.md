@@ -65,7 +65,7 @@ The Executive Committee:
 
 The Executive Committee shall meet and report to the membership at least once each calendar year.  
 
-A majority of Executive Committee members constitutes a quorum and and must participate to conduct of official business.  Because TDWG is a global organization, participation is not required to be in real-time.  Pariticipation may include communication by any means accessible to all members, such as meeting in person, by teleconference, online chat, email, and document sharing. Voting may be by voice, gesture, paper, or electronic expression as directed by the Chair.  
+A majority of Executive Committee members constitutes a quorum and must participate to conduct official business.  Because TDWG is a global organization, participation is not required to be in real-time.  Pariticipation may include communication by any means accessible to all members, such as meeting in person, by teleconference, online chat, email, and document sharing. Voting may be by voice, gesture, paper, or electronic expression as directed by the Chair.  
 
 ### 5.4 Conflicts of interest
 
@@ -81,7 +81,7 @@ General elections shall be organised every year under the responsibility of the 
 
 The Executive Committee Chair is elected directly from the membership and commits to a total of four years of service.  A newly elected Chair serves first as Deputy Chair for two years, and then succeeds to become Chair for the following two years. Upon completion of both terms, the Chair can opt to remain as a member of the Executive Committee for an additional two years as a TDWG representative. 
 
-If an Executive Committee Chair resigns or otherwise becomes unable to fulfil the role, the Deputy Chair shall become Chair, and a new Deputy Chair shall be elected in the next general election.  In the event that both a Chair and Deputy Chair become unable to serve, the Executive Committee shall appoint one of the current TDWG officers to serve as Acting Chair, and both Chair and Deputy Chair shall be elected the next general election.
+If an Executive Committee Chair resigns or otherwise becomes unable to fulfill the role, the Deputy Chair shall become Chair, and a new Deputy Chair shall be elected in the next general election.  In the event that both a Chair and Deputy Chair become unable to serve, the Executive Committee shall appoint one of the current TDWG officers to serve as Acting Chair, and both Chair and Deputy Chair shall be elected in the next general election.
 
 #### 6.2.1 Executive Committee Chair responsibilities
 
