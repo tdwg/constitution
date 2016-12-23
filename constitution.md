@@ -65,7 +65,7 @@ The Executive Committee:
 
 The Executive Committee shall meet and report to the membership at least once each calendar year.  
 
-A majority of Executive Committee members constitutes a quorum and must participate to conduct official business.  Because TDWG is a global organization, participation is not required to be in real-time.  Pariticipation may include communication by any means accessible to all members, such as meeting in person, by teleconference, online chat, email, and document sharing. Voting may be by voice, gesture, paper, or electronic expression as directed by the Chair.  
+A majority of Executive Committee members constitutes a quorum and must participate to conduct official business. Because TDWG is a global organization, participation is not required to be in real-time.  Pariticipation may include communication by any means accessible to all members, such as meeting in person, by teleconference, online chat, email, and document sharing. Voting may be by voice, gesture, paper, or electronic expression as directed by the Chair.
 
 ### 5.4 Conflicts of interest
 
